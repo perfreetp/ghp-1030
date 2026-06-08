@@ -1,0 +1,19 @@
+[
+  {
+    "timestamp": "2026-06-08T14:26:08.526Z",
+    "action": "relate-add",
+    "entryIds": [
+      "mq5azo7ntl8nrx",
+      "mq5azo256hfgav"
+    ],
+    "summary": "米聊 →[竞品]→ 微信"
+  },
+  {
+    "timestamp": "2026-06-08T14:27:03.544Z",
+    "action": "remove",
+    "entryIds": [
+      "mq5azo7ntl8nrx"
+    ],
+    "summary": "删除条目: 米聊, 清理 1 条断链关系"
+  }
+]

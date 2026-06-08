@@ -1,0 +1,65 @@
+[
+  {
+    "id": "mq5azo256hfgav",
+    "name": "微信",
+    "version": "1.0",
+    "company": "腾讯",
+    "year": "2011",
+    "description": "移动即时通讯",
+    "screenshot": "",
+    "link": "",
+    "interview": "",
+    "dispute": "",
+    "features": [
+      "聊天",
+      "语音",
+      "朋友圈"
+    ],
+    "tags": [],
+    "relations": [],
+    "createdAt": "2026-06-08T14:25:42.029Z",
+    "updatedAt": "2026-06-08T14:26:08.525Z"
+  },
+  {
+    "id": "mq5azo51sfmhc3",
+    "name": "微信",
+    "version": "2.0",
+    "company": "腾讯",
+    "year": "2012",
+    "description": "增加公众号",
+    "screenshot": "",
+    "link": "",
+    "interview": "",
+    "dispute": "",
+    "features": [
+      "聊天",
+      "语音",
+      "朋友圈",
+      "公众号"
+    ],
+    "tags": [],
+    "relations": [],
+    "createdAt": "2026-06-08T14:25:42.133Z",
+    "updatedAt": "2026-06-08T14:25:42.133Z"
+  },
+  {
+    "id": "mq5b35seuip19s",
+    "name": "米聊",
+    "version": "1.0",
+    "company": "小米",
+    "year": "2010",
+    "description": "小米即时通讯",
+    "screenshot": "",
+    "link": "",
+    "interview": "",
+    "dispute": "",
+    "features": [
+      "聊天",
+      "语音"
+    ],
+    "tags": [],
+    "relations": [],
+    "createdAt": "2026-06-08T14:28:24.975Z",
+    "updatedAt": "2026-06-08T14:28:24.975Z"
+  }
+]
