@@ -1,0 +1,14 @@
+{
+  "name": "kaoguguan",
+  "version": "1.0.0",
+  "description": "产品考古馆 - 产品经理本地整理旧产品资料并生成研究包的命令行工具",
+  "bin": {
+    "kyg": "./bin/kyg.js"
+  },
+  "dependencies": {
+    "commander": "^11.1.0",
+    "chalk": "^4.1.2",
+    "glob": "^10.3.10",
+    "uuid": "^9.0.0"
+  }
+}
